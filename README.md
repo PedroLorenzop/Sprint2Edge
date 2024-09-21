@@ -75,12 +75,13 @@ Broker MQTT: O broker utilizado no código é o mqtt-dashboard.com, que é um br
 
 Node-RED: Deve estar instalado e configurado para subscrever ao tópico correto.
 
-
+## Link Projeto
+[Link](https://wokwi.com/projects/409658145231135745)
 
 
 ## Autores
 
-- Enzo Valieres
+- Enzo Valieres(RM555119)
 - Gilherme Barbiero (RM555185)
 - Matheus Cantiere (RM558479)
 - Pedro de Lorenzo (RM554720)
