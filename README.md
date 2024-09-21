@@ -190,7 +190,10 @@ Node-RED para visualização dos dados
       delay(5000);  // Envia dados a cada 5 segundos
     }
 
+## Fotos
 
+![Wokwi](Wokwi.png)
+![Wokwi](NodeRed.png)
 
 ## Link Projeto
 [Link](https://wokwi.com/projects/409658145231135745)
