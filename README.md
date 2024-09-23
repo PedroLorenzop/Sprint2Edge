@@ -205,5 +205,5 @@ Node-RED para visualização dos dados
 - Gilherme Barbiero (RM555185)
 - Matheus Cantiere (RM558479)
 - Pedro de Lorenzo (RM554720)
-- Vinicius Castro
+- Vinicius Castro (RM556137)
 
